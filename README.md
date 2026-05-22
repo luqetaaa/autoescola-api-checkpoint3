@@ -7,6 +7,10 @@ API REST desenvolvida em Java 17 com Spring Boot para gerenciamento de alunos e 
 # Integrantes
 
 * Lucas Rodrigues de Queiroz - RM556323
+* Victor Hugo de Paula	- RM554787
+* Felipe Paes de Barros Muller Carioba	- RM558447
+* Djalma Moreira de Andrade Filho	- RM555530
+* Matheus Gushi Morioka	- RM556935
 
 ---
 
